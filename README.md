@@ -11,4 +11,4 @@ Weather Dashboard - Bu loyiha sizga hozrigi va kelgusidagi 5 kunning ob-havosini
 1.4 Index.html faylini oching va loyhani  ishlating.
 
 ## Demo 
-https://
+https://weather-app-hackaton.vercel.app/
